@@ -2,5 +2,9 @@ new change
 by dev2
 second change
 third change by the dev1
+<<<<<<< HEAD
 hello by dev2
 hi by dev 1
+=======
+hello by dev2
+>>>>>>> a564b315ed052dc7e76dfdbadc7de99c7ae13fb9
